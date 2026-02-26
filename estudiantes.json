@@ -1,0 +1,66 @@
+[
+  {
+    "estudiante_id": 101,
+    "materia": "Matematicas",
+    "horas_estudio": 20,
+    "nota_final": 85,
+    "asistencia": 95,
+    "sexo": "Hombre"
+  },
+  {
+    "estudiante_id": 102,
+    "materia": "Programacion",
+    "horas_estudio": 35,
+    "nota_final": 98,
+    "asistencia": 100,
+    "sexo": "Mujer"
+  },
+  {
+    "estudiante_id": 103,
+    "materia": "Historia",
+    "horas_estudio": 10,
+    "nota_final": 65,
+    "asistencia": 80,
+    "sexo": "Mujer"
+  },
+  {
+    "estudiante_id": 104,
+    "materia": "Fisica",
+    "horas_estudio": 25,
+    "nota_final": 78,
+    "asistencia": 90,
+    "sexo": "Hombre"
+  },
+  {
+    "estudiante_id": 105,
+    "materia": "Matematicas",
+    "horas_estudio": 15,
+    "nota_final": 70,
+    "asistencia": 85,
+    "sexo": "Mujer"
+  },
+  {
+    "estudiante_id": 106,
+    "materia": "Programacion",
+    "horas_estudio": 40,
+    "nota_final": 100,
+    "asistencia": 100,
+    "sexo": "Hombre"
+  },
+  {
+    "estudiante_id": 107,
+    "materia": "Historia",
+    "horas_estudio": 5,
+    "nota_final": 50,
+    "asistencia": 60,
+    "sexo": "Mujer"
+  },
+  {
+    "estudiante_id": 108,
+    "materia": "Fisica",
+    "horas_estudio": 22,
+    "nota_final": 82,
+    "asistencia": 88,
+    "sexo": "Hombre"
+  }
+]
