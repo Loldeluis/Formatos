@@ -1,0 +1,9 @@
+estudiante_id;materia;horas_estudio;nota_final;asistencia;sexo
+101;Matematicas;20;85;95;Hombre
+102;Programacion;35;98;100;Mujer
+103;Historia;10;65;80;Mujer
+104;Fisica;25;78;90;Hombre
+105;Matematicas;15;70;85;Mujer
+106;Programacion;40;100;100;Hombre
+107;Historia;5;50;60;Mujer
+108;Fisica;22;82;88;Hombre
